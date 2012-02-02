@@ -11,6 +11,5 @@ public abstract class TemplateImpressaoDeRelatorio implements ImprimirRelatorio{
     
     protected abstract void imprimirCabecalho(Banco banco);
     protected abstract void imprimirCorpo(Banco banco);
-    protected abstract void imprimirRodape(Banco banco);
-    
+    protected abstract void imprimirRodape(Banco banco);    
 }

@@ -1,7 +1,5 @@
 package impostotemplate;
 
-import com.sun.xml.internal.ws.encoding.soap.SOAP12Constants;
-
 public class ICPP extends TemplateDeImpostoCondicional {
 
 	@Override
