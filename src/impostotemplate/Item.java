@@ -1,5 +1,4 @@
 package impostotemplate;
-import desconto.*;
 
 
 public class Item {
